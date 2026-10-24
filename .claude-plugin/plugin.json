@@ -1,0 +1,7 @@
+{
+  "name": "team-room",
+  "version": "0.2.0",
+  "author": { "name": "AinurFax" },
+  "description": "Team Room: rooms with shared project memory, a board of sessions, tasks Claude keeps itself, and limits, synced through private GitHub repos",
+  "types": "./types/index.d.ts"
+}

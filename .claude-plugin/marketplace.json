@@ -1,0 +1,6 @@
+{
+  "name": "team-room",
+  "owner": { "name": "AinurFax" },
+  "description": "Team Room mod for Claude: shared rooms for working together",
+  "plugins": [{ "name": "team-room", "source": "./" }]
+}
